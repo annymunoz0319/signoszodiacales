@@ -1,0 +1,45 @@
+ @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+ body {
+     background-image: url(../img/fondo.jpg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-attachment: fixed;
+     width: 100%;
+     margin: 0 auto;
+     margin-top: 6rem;
+     text-align: center;
+     font-family: "Nunito", sans-serif;
+     font-style: normal;
+     color: #00B9E8;
+
+ }
+
+ label {
+     display: inline-block;
+     width: 15em;
+     font-size: 1.8em;
+     font-weight: bold;
+ }
+
+ input {
+     width: 6em;
+     background-color: #89CFF0;
+ }
+
+ h1 {
+     font-size: 4em;
+ }
+
+ button {
+     width: 13%;
+     padding: 1%;
+     font-size: 1.5em;
+     font-weight: bold;
+     color: #00B9E8;
+     background-color: transparent;
+ }
+ #signo {
+    font-size: 3em;
+ }
